@@ -1,0 +1,12 @@
+
+<pages preload="true">
+    <page id="1" shadow="true" source="content/vector/page1.swf" thumb="content/thumbs/page1.jpg"></page>
+    <page id="2" shadow="true" source="content/vector/page2.swf" thumb="content/thumbs/page2.jpg"></page>
+    <page id="3" shadow="true" source="content/vector/page3.swf" thumb="content/thumbs/page3.jpg"></page>
+    <page id="4" shadow="true" source="content/vector/page4.swf" thumb="content/thumbs/page4.jpg"></page>
+    <page id="5" shadow="true" source="content/vector/page5.swf" thumb="content/thumbs/page5.jpg"></page>
+    <page id="6" shadow="true" source="content/vector/page6.swf" thumb="content/thumbs/page6.jpg"></page>
+    <page id="7" shadow="true" source="content/vector/page7.swf" thumb="content/thumbs/page7.jpg"></page>
+    <page id="8" shadow="true" source="content/vector/page8.swf" thumb="content/thumbs/page8.jpg"></page>
+    <page id="9" shadow="true" source="content/vector/page9.swf" thumb="content/thumbs/page9.jpg"></page>
+</pages>
